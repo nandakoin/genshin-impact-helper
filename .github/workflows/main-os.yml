@@ -2,7 +2,7 @@ name: "Genshin Impact Helper Global"
 
 on:
   schedule:
-    - cron: "30 15 * * *"  # Minute/Hour/Day/Month/Weekday (UTC)
+    - cron: "15 21 * * *"  # Minute/Hour/Day/Month/Weekday (UTC)
   workflow_dispatch:
 
 env:
